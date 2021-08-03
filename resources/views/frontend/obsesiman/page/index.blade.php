@@ -13,7 +13,7 @@
                 <div class="row no-gutters slider-text align-items-center justify-content-start">
                     <div class="col-md-6 ftco-animate">
                         <div class="text w-100">
-                            <h2>{{ $sli->marketing_slider_name }}</h2>
+                            <!-- <h2>{{ $sli->marketing_slider_name }}</h2> -->
                             <h1 class="mb-4">{{ $sli->marketing_slider_description }}</h1>
                         </div>
                     </div>
